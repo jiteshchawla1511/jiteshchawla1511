@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jitesh 
 - 👀 I’m interested in competitive Programming,System Design and Backend
-- 🌱 I’m currently learning Nodejs  
+- 🌱 I’m currently learning GO Lang
 - 📫 How to reach me jiteshchawla1511@gmail.com
 
 <!---
